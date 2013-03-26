@@ -1,7 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 
 return array(
-	'global.title' => 'mmatica',
+	'global.title' => 'mmatica ',
 	'global.sign_in' => 'Вход',
 	'global.logout' => 'Выход',
 	'global.registration' => 'Регистрация',
